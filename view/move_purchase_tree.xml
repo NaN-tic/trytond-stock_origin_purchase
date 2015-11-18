@@ -13,9 +13,5 @@ copyright notices and license terms. -->
     <field name="effective_date"/>
     <field name="state"/>
     <field name="purchase"/>
-    <button name="cancel" string="Cancel"/>
-    <button name="draft" string="Reset to Draft"/>
-    <button name="do" string="Do"/>
     <field name="unit_digits" tree_invisible="1"/>
-    <field name="assignation_required" tree_invisible="1"/>
 </tree>
