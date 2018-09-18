@@ -3,7 +3,7 @@
 The COPYRIGHT file at the top level of this repository contains the full
 copyright notices and license terms. -->
 <data>
-    <xpath expr="/form/notebook/page[@id=&quot;incoming_moves&quot;]/field[@name=&quot;incoming_moves&quot;]"
+    <xpath expr="/form/notebook/page[@name='incoming_moves']/field[@name='incoming_moves']"
             position="replace_attributes">
         <field name="incoming_moves" colspan="4"
             view_ids="stock_origin_purchase.move_purchase_view_tree"/>
